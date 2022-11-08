@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Almacanamiento_EXT_usd</string>
+    <string name="txt_nombre">Nombre del archivo</string>
+    <string name="boton_guardar">Guardar</string>
+    <string name="boton_buscar">Buscar</string>
+</resources>
